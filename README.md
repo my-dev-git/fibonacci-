@@ -1,9 +1,7 @@
-# fibonacci-
-1) Run by following command fibonacci.js
+Write a simple application using a recursive function that accepts a value (integer) and returns the fibonacci value at that position in the series.
+The application should be performant at scale to handle larger numbers without slowing down exponentially.
 
-Recursive algorithm to get Fibonacci sequence:
-
-1. START
+1. START by following command node fibonacci.js
 
 2. Input the non-negative integer ‘n’
 
